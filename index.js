@@ -186,7 +186,7 @@ async function startNaze() {
         })
         else v = id === '0@s.whatsapp.net' ? {
             id,
-            name: 'WhatsApp'
+            name: 'Holer GTPS'
         } : id === naze.decodeJid(naze.user.id) ?
             naze.user :
             (store.contacts[id] || {})
