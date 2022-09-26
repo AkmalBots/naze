@@ -1,8 +1,8 @@
 /**
    * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Recode By Naze Dev/ Akmal Md
+   * Contact Me on wa.me/6281269734000
+   * Follow https://saweria/Holer
 */
 
 const fs = require('fs')
@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
-global.sessionName = 'nazedev'
+global.owner = ['6281269734000']
+global.ownernomer = "6281269734000"
+global.premium = ['6281269734000']
+global.packname = 'Sticker  Akmal'
+global.author = 'Akmal'
+global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
@@ -41,7 +41,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 100
 }
 global.thumb = fs.readFileSync('./lib/naze.png')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
